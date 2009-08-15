@@ -1,4 +1,6 @@
-This is a small project written very quickly trying to show some OpenGLES tricks to draw an EKG curve on an iPhone
+This is a small project written very quickly trying to show some OpenGLES tricks to draw an EKG curve on an iPhone. 
+
+A question for some tips for this was posted by Jont Olof Lyttkens on http://groups.google.com/group/cocoaheads-stockholm
 
 * The curve is drawn three times with different colors and width
 
