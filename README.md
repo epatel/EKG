@@ -9,3 +9,6 @@ A question for some tips for this was posted by Jont Olof Lyttkens on [http://gr
 * A texture is used to draw the halo and also used when drawing the lit grid
 
 * GL_LINE_SMOOTH does not exist in pre-3GS devices. FBO could perhaps be used to create a nicer line
+
+
+Note: cloned and compiled with latest Xcode, worked on SDK 3.0
